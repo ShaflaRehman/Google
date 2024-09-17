@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34902.65
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "CS50_Project0", "CS50_Project0.pyproj", "{0089B39B-A4BF-4DB4-9BD0-368AAEB999A6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{1CD8D159-A88B-41FE-AEDA-EBCBCA92766D}"
+	ProjectSection(SolutionItems) = preProject
+		advance.css = advance.css
+		advance.html = advance.html
+		images.html = images.html
+		index.html = index.html
+		styles.css = styles.css
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0089B39B-A4BF-4DB4-9BD0-368AAEB999A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0089B39B-A4BF-4DB4-9BD0-368AAEB999A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B9108A40-91EE-4A52-9114-A687F53976E1}
+	EndGlobalSection
+EndGlobal
